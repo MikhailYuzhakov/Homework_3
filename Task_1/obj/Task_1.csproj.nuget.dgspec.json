@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\obi-8\\Desktop\\Homework_3\\Task_1\\Task_1.csproj": {}
+    "C:\\Users\\YuzhakovMikhail\\Desktop\\GeekBrains\\Введение в программирование\\Homework_3\\Task_1\\Task_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\obi-8\\Desktop\\Homework_3\\Task_1\\Task_1.csproj": {
+    "C:\\Users\\YuzhakovMikhail\\Desktop\\GeekBrains\\Введение в программирование\\Homework_3\\Task_1\\Task_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\obi-8\\Desktop\\Homework_3\\Task_1\\Task_1.csproj",
+        "projectUniqueName": "C:\\Users\\YuzhakovMikhail\\Desktop\\GeekBrains\\Введение в программирование\\Homework_3\\Task_1\\Task_1.csproj",
         "projectName": "Task_1",
-        "projectPath": "C:\\Users\\obi-8\\Desktop\\Homework_3\\Task_1\\Task_1.csproj",
-        "packagesPath": "C:\\Users\\obi-8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\obi-8\\Desktop\\Homework_3\\Task_1\\obj\\",
+        "projectPath": "C:\\Users\\YuzhakovMikhail\\Desktop\\GeekBrains\\Введение в программирование\\Homework_3\\Task_1\\Task_1.csproj",
+        "packagesPath": "C:\\Users\\YuzhakovMikhail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YuzhakovMikhail\\Desktop\\GeekBrains\\Введение в программирование\\Homework_3\\Task_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\obi-8\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\YuzhakovMikhail\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

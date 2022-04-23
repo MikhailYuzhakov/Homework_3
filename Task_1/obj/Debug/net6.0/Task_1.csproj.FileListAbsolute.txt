@@ -13,3 +13,18 @@ C:\Users\obi-8\Desktop\Homework_3\Task_1\obj\Debug\net6.0\refint\Task_1.dll
 C:\Users\obi-8\Desktop\Homework_3\Task_1\obj\Debug\net6.0\Task_1.pdb
 C:\Users\obi-8\Desktop\Homework_3\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
 C:\Users\obi-8\Desktop\Homework_3\Task_1\obj\Debug\net6.0\ref\Task_1.dll
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\bin\Debug\net6.0\Task_1.exe
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\bin\Debug\net6.0\Task_1.deps.json
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\bin\Debug\net6.0\Task_1.dll
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\bin\Debug\net6.0\Task_1.pdb
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\obj\Debug\net6.0\Task_1.csproj.AssemblyReference.cache
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\obj\Debug\net6.0\Task_1.dll
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\obj\Debug\net6.0\refint\Task_1.dll
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\obj\Debug\net6.0\Task_1.pdb
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Введение в программирование\Homework_3\Task_1\obj\Debug\net6.0\ref\Task_1.dll
